@@ -1,0 +1,105 @@
+@charset "utf-8";
+
+* {
+margin: 0;
+padding: 0;
+border: 0; 
+}
+
+body {
+	background-color: #d0ddd1
+}
+.display-4 {
+	font-family: 'Raleway', sans-serif; font-weight: 900;
+	color: #07592a;
+	font-size: 31px;
+	text-align: center;
+}
+.jumbotron {
+	background-color: #d0ddd1;
+	height: 40px;
+}
+.card {
+	background-color: #d0ddd1;
+	border: solid;
+	border-color: #black;
+}
+.card-title {
+	font-family: 'Bebas Neue', cursive;
+	text-align: center;
+	font-size: 35px;
+	color: #07592a;
+}
+.card-text {
+	font-family: 'Raleway', sans-serif; font-weight: 900;
+	font-size: 20px;
+	text-align: center;
+}
+.btn {
+  margin:0 auto;
+  display:block;
+  background-color:#ff7254;
+  border-color: #ff7254;
+}
+
+
+h2 {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 80px;
+}
+.logo-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.navbar {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 30px;
+	width: 100%;
+	background-color: #d0ddd1;
+	/* How to make the navbar equally spaced? */
+} 
+.nav-light {
+	color: #07592a    /* Still not working? */
+}
+.image {
+  max-width: 100%;
+  height: auto;
+}
+#image-1 {
+  max-width: 100%;
+  height: auto;
+}
+.deerly-box {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} 
+.my-footer {
+	 position: bottom; 
+     background: #E5E8E8 ;
+     height: 60px;
+	border-color: #F1948A;
+}
+.icon {
+	float: left;
+	height: 40px;
+	width: 40px;
+}
+.footer{
+	margin-top: 30px;
+	margin-right: 10px;
+	font-family: 'Raleway', sans-serif; font-weight: 900;
+	font-size: 15px;
+}
+.facebook{
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.instagram{
+	margin-left: 10px;
+	margin-top: 10px;
+}
