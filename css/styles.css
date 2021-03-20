@@ -71,6 +71,9 @@ h2 {
   max-width: 100%;
   height: auto;
 }
+.container-1{
+	width: 100%
+}
 .deerly-box {
 	display: block;
   margin-left: auto;
