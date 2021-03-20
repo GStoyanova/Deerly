@@ -12,7 +12,7 @@ body {
 .display-4 {
 	font-family: 'Raleway', sans-serif; font-weight: 900;
 	color: #07592a;
-	font-size: 25px;
+	font-size: 20px;
 	text-align: center;
 }
 .jumbotron {
@@ -75,7 +75,7 @@ h2 {
 	display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
 } 
 .my-footer {
 	 position: bottom; 
