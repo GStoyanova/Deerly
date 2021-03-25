@@ -45,6 +45,7 @@ body {
 h2 {
 	font-family: 'Bebas Neue', cursive;
 	font-size: 80px;
+	color: #07592a;
 }
 .logo-image{
     width: 50px;
@@ -106,9 +107,3 @@ h2 {
 	margin-top: 10px;
 }
  /* Contact page */
-
-.bundletitle{
-	font-family: 'Bebas Neue', cursive;
-	font-size: 80px;
-	color: #07592a;
-}
