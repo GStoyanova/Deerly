@@ -39,6 +39,7 @@ body {
   display:block;
   background-color:#ff7254;
   border-color: #ff7254;
+  font-weight: bold;
 }
 
 
@@ -107,3 +108,9 @@ h2 {
 	margin-top: 10px;
 }
  /* Contact page */
+ form {
+ 	font-family: 'Raleway', sans-serif; font-weight: 1000;
+ }
+ .hyperlinks {
+ 	color: #ff7254
+ }
