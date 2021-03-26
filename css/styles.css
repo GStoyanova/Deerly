@@ -121,5 +121,14 @@ h2 {
  .contact-icon {
  	height: 80px;
  	width: 80px;
-
+ }
+ .cart{
+ 	height: 350px;
+ 	width: 350px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	display: block;
+ }
+ .cart-text{
+   text-align: center;
  }
