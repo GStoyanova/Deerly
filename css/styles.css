@@ -132,3 +132,29 @@ h2 {
  .cart-text{
    text-align: center;
  }
+
+
+
+h1{
+    font-family: 'Raleway', sans-serif; font-weight: 900;
+	color: #07592a;
+	font-size: 42px;
+	text-align: center;
+ }
+
+
+
+
+
+body {background-color:#d0ddd1;background-repeat:no-repeat;background-position:top right;background-attachment:fixed;}
+h1
+p1 {text-align:left;font-family:Raleway;font-size:18px;font-style:normal;font-weight:bold;color:#07592a;}
+p2 {text-align:left;font-family:Raleway;font-size:18px;font-style:normal;font-weight:bold;color:#07592a;} 
+p3 {text-align:left;font-family:Raleway;font-size:18px;font-style:normal;font-weight:bold;color:#07592a;}
+p4 {text-align:left;font-family:Raleway;font-size:18px;font-style:normal;font-weight:bold;color:#07592a;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
