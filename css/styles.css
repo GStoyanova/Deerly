@@ -171,6 +171,8 @@ p {
   margin: 20px;
   padding: 10px;
 }
-
+.justification{
+	min-width: 500px;
+}
 
 
