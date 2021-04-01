@@ -111,6 +111,11 @@ h2 {
  form {
  	font-family: 'Raleway', sans-serif; font-weight: 1000;
  }
+ .contact-heading {
+ 	font-family: 'Bebas Neue', cursive;
+	color: #07592a;
+	font-size: 50px;
+ }
  .hyperlinks {
  	color: #ff7254
  }
@@ -133,33 +138,22 @@ h2 {
    text-align: center;
  }
 
-
-
 h1{
     font-family: 'Bebas Neue', cursive;
 	color: #07592a;
 	font-size: 60px;
-	text-align: center;
  }
 
 h2{
     font-family: 'Bebas Neue', cursive;
 	color: #07592a;
 	font-size: 30px;
-	text-align: center;
  }
 
 p {
 	font-family: 'Raleway', sans-serif; font-weight: 1000;
 	font-size: 18px;
 	color: #07592a;
-}
-
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .heading {
@@ -177,6 +171,5 @@ img {
   margin: 20px;
   padding: 10px;
 }
-
 
 
