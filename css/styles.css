@@ -176,14 +176,17 @@ p {
 }
 .center{
 	text-align: center;
-	color: #ff7254;
+	color: #07592a;
 	font-size: 20px;
+	background-color: #F0DEE0;
+	border-radius: 25px;
 }
 .names{
 	text-align: center;
 	font-family: 'Bebas Neue', cursive;
+	font-weight: lighter;
 	color: #07592a;
-	font-size: 35px;
+	font-size: 40px;
 }
 .logo {
 	width: 200px;
@@ -193,6 +196,7 @@ p {
 	font-family: 'Raleway', sans-serif; 
 	font-size: 25px;
  	color: #07592a;
+ 	text-align: center;
 }
 .card-1{
 	background-color: #F0DEE0;
@@ -203,4 +207,10 @@ p {
 	font-size: 25px;
  	color: #07592a;
  	text-align: center;
+ }
+ .picture{
+ 	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 60%;
  }
