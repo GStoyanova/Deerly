@@ -60,10 +60,9 @@ h2 {
 	font-size: 30px;
 	width: 100%;
 	background-color: #d0ddd1;
-	/* How to make the navbar equally spaced? */
-} 
+}
 .nav-light {
-	color: #07592a    /* Still not working? */
+	color: #07592a   
 }
 .image {
   max-width: 100%;
@@ -172,4 +171,36 @@ p {
   padding: 10px;
 }
 
-
+.team-image{
+	width: 100%
+}
+.center{
+	text-align: center;
+	color: #ff7254;
+	font-size: 20px;
+}
+.names{
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	color: #07592a;
+	font-size: 35px;
+}
+.logo {
+	width: 200px;
+	align-content: center;
+}
+.vision{
+	font-family: 'Raleway', sans-serif; 
+	font-size: 25px;
+ 	color: #07592a;
+}
+.card-1{
+	background-color: #F0DEE0;
+	border-radius: 25px;
+}
+.card-2{
+	font-family: 'Raleway', sans-serif; 
+	font-size: 25px;
+ 	color: #07592a;
+ 	text-align: center;
+ }
