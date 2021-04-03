@@ -20,8 +20,8 @@ body {
 }
 .card {
 	background-color: #d0ddd1;
-	border: solid;
-	border-color: #black;
+	border: ridge;
+	border-color: #a6bfa8;
 }
 .card-title {
 	font-family: 'Bebas Neue', cursive;
