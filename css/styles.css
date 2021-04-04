@@ -20,8 +20,8 @@ body {
 }
 .card {
 	background-color: #d0ddd1;
-	border: solid;
-	border-color: #black;
+	border: ridge;
+	border-color: #a6bfa8;
 }
 .card-title {
 	font-family: 'Bebas Neue', cursive;
@@ -60,10 +60,9 @@ h2 {
 	font-size: 30px;
 	width: 100%;
 	background-color: #d0ddd1;
-	/* How to make the navbar equally spaced? */
-} 
+}
 .nav-light {
-	color: #07592a    /* Still not working? */
+	color: #07592a   
 }
 .image {
   max-width: 100%;
@@ -83,7 +82,7 @@ h2 {
   width: 60%;
 } 
 .my-footer {
-	 position: bottom; 
+	 position: static; 
      background: #E5E8E8 ;
      height: 60px;
 	border-color: #F1948A;
@@ -109,7 +108,7 @@ h2 {
 }
  /* Contact page */
  form {
- 	font-family: 'Raleway', sans-serif; font-weight: 1000;
+ 	font-family: 'Raleway', sans-serif; font-weight: 900;
  }
  .contact-heading {
  	font-family: 'Bebas Neue', cursive;
@@ -120,7 +119,7 @@ h2 {
  	color: #ff7254
  }
  h4 {
- 	font-family: 'Raleway', sans-serif; font-weight: 1000;
+ 	font-family: 'Raleway', sans-serif; font-weight: 900;
  	color: #07592a;
  }
  .contact-icon {
@@ -151,7 +150,7 @@ h2{
  }
 
 p {
-	font-family: 'Raleway', sans-serif; font-weight: 1000;
+	font-family: 'Raleway', sans-serif; font-weight: 900;
 	font-size: 18px;
 	color: #07592a;
 }
@@ -172,5 +171,52 @@ p {
   padding: 10px;
 }
 
-
-
+.team-image{
+	width: 100%
+}
+.center{
+	text-align: center;
+	color: #07592a;
+	font-size: 20px;
+	background-color: #F0DEE0;
+	border-radius: 25px;
+}
+.names{
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: lighter;
+	color: #07592a;
+	font-size: 40px;
+}
+.logo {
+	width: 200px;
+	align-content: center;
+}
+.vision{
+	font-family: 'Raleway', sans-serif; 
+	font-size: 25px;
+ 	color: #07592a;
+ 	text-align: center;
+}
+.card-1{
+	background-color: #F0DEE0;
+	border-radius: 25px;
+}
+.card-2{
+	font-family: 'Raleway', sans-serif; 
+	font-size: 25px;
+ 	color: #07592a;
+ 	text-align: center;
+ }
+ .picture{
+ 	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 60%;
+ }
+ .avatar{
+ 	border-radius: 50%;
+ 	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
